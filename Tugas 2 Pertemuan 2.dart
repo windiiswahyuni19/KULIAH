@@ -27,4 +27,5 @@ void main() {
 
   // Menampilkan hasil
   print("Skor Anda: $skor");
-  print("Grad
+  print("Grade Anda: $grade");
+}
